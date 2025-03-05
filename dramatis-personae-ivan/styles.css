@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#search {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.npc-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.npc-card h2 {
+  margin-top: 0;
+}
